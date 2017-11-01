@@ -1,0 +1,2 @@
+# StarDB
+StarDB, a distributed database system for analytics on strings. StarDB hides data and system complexities and allows users to focus on analytics. It uses a comprehensive set of parallel string operations and provides a declarative query language to solve complex queries. StarDB automatically tunes itself and runs with over 90% efficiency on supercomputers, public clouds, clusters, and workstations.
